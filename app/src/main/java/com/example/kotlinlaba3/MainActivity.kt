@@ -38,7 +38,7 @@ class MainActivity : AppCompatActivity() {
                 editString.text = editString.text.substring(newString.length)
                 editString.text = newString + editString.text
             }
-                //3
+                //4
         }
     }
 }
